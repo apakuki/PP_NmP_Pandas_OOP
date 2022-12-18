@@ -1,4 +1,7 @@
 # PP_NmP_Pandas_OOP
+
+Udemy course - Python Programming - Multithreading, OOP, NumPy and Pandas
+
 Requirements
 Working computer and internet - setup and installation instructions are included for each platform (Mac and Windows)
 Description
